@@ -1,0 +1,7 @@
+C:\Users\Kudasai\source\repos\WpnDmgclass\WpnDmgclass\bin\Debug\WpnDmgclass.exe.config
+C:\Users\Kudasai\source\repos\WpnDmgclass\WpnDmgclass\bin\Debug\WpnDmgclass.exe
+C:\Users\Kudasai\source\repos\WpnDmgclass\WpnDmgclass\bin\Debug\WpnDmgclass.pdb
+C:\Users\Kudasai\source\repos\WpnDmgclass\WpnDmgclass\obj\Debug\WpnDmgclass.csprojAssemblyReference.cache
+C:\Users\Kudasai\source\repos\WpnDmgclass\WpnDmgclass\obj\Debug\WpnDmgclass.csproj.CoreCompileInputs.cache
+C:\Users\Kudasai\source\repos\WpnDmgclass\WpnDmgclass\obj\Debug\WpnDmgclass.exe
+C:\Users\Kudasai\source\repos\WpnDmgclass\WpnDmgclass\obj\Debug\WpnDmgclass.pdb
