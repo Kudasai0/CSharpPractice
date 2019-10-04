@@ -15,7 +15,7 @@ namespace MySqlTest
             string host = "51.15.118.65"; // Имя хоста
             string database = "testdb"; // Имя базы данных
             string user = "metal6668"; // Имя пользователя
-            Console.WriteLine("Enter database password");
+            Console.Write("Enter database password: ");
             string password = Console.ReadLine(); // Пароль пользователя ПОМЕНЯЙ
 
             //string connect = "Database=" + database + ";Datasource=" + host + ";User=" + user + ";Password=" + password;
